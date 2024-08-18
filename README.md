@@ -1,4 +1,9 @@
-![Dashboard Screenshot](public/desktop.png)
+<p float="left">
+  <img src="public/desktop.png" alt="Desktop View" width="76.5%" style="display:inline-block;" />
+  <img src="public/mobile.png" alt="Mobile View" width="20%" style="display:inline-block;" />
+</p>
+
+
 
 # Dashboard Project
 
