@@ -1,3 +1,5 @@
+![Dashboard Screenshot](public/desktop.png)
+
 # Dashboard Project
 
 This is a front-end dashboard project built using Next.js and Shadcn. The dashboard provides an overview of sales, new clients, and orders, with a visual representation of sales data over time
